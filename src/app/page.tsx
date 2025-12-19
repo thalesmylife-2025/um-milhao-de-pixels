@@ -5,7 +5,7 @@ import React from 'react';
 const pixelsVendidos = [
   {
     id: 1,
-    nome: "Minha Primeira Venda",
+    nome: "Thales My Life",
     x: 0,      
     y: 0,      
     width: 90, 
@@ -24,6 +24,17 @@ const pixelsVendidos = [
     color: "#fff2f2ff", 
     image: "/db.jpg", 
     link: "https://www.instagram.com/dbastostransporte_/" 
+  },
+  {
+    id: 3,
+    nome: "daniel adv",
+    x:90,      
+    y: 50,      
+    width: 30, 
+    height: 30, 
+    color: "#fff2f2ff", 
+    image: "/danieladv.jpeg", 
+    link: "https://www.instagram.com/dellarmelinaedeorto.adv/" 
   },
   
   // Adicione novas empresas aqui...
