@@ -22,7 +22,7 @@ const pixelsVendidos = [
     width: 50, 
     height: 50, 
     color: "#fff2f2ff", 
-    image: "/dbastos.jpg", 
+    image: "/db.jpg", 
     link: "https://www.instagram.com/dbastostransporte_/" 
   },
   
