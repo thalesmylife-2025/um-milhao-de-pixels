@@ -11,8 +11,8 @@ const pixelsVendidos = [
     width: 100, 
     height: 100, 
     color: "#FF0000", 
-    image: "", 
-    link: "https://instagram.com/thales" 
+    image: "foto-thales.jpeg", 
+    link: "https://www.instagram.com/thalesmylife/" 
   },
   {
     id: 2,
