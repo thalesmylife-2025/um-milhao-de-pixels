@@ -10,21 +10,11 @@ const pixelsVendidos = [
     y: 0,      
     width: 100, 
     height: 100, 
-    color: "#FF0000", 
+    color: "#fff2f2ff", 
     image: "foto-thales.jpeg", 
     link: "https://www.instagram.com/thalesmylife/" 
   },
-  {
-    id: 2,
-    nome: "Reserva Futura",
-    x: 100,    
-    y: 0,
-    width: 100,
-    height: 100,
-    color: "#0070f3", 
-    image: "", 
-    link: "https://google.com"
-  },
+  
   // Adicione novas empresas aqui...
 ];
 
