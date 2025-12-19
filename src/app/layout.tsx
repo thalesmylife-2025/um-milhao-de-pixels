@@ -13,7 +13,7 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata: Metadata = {
-  title: "Um Milhão de Pixels | Thales My Life",
+  title: "Thales My Life",
   description: "O outdoor da internet brasileira. Garanta seu espaço na história.",
 };
 
