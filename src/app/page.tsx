@@ -8,8 +8,8 @@ const pixelsVendidos = [
     nome: "Minha Primeira Venda",
     x: 0,      
     y: 0,      
-    width: 100, 
-    height: 100, 
+    width: 90, 
+    height: 90, 
     color: "#fff2f2ff", 
     image: "foto-thales.jpeg", 
     link: "https://www.instagram.com/thalesmylife/" 
@@ -17,10 +17,10 @@ const pixelsVendidos = [
   {
     id: 2,
     nome: "D Bastos",
-    x: 100,      
+    x: 90,      
     y: 0,      
-    width: 30, 
-    height: 30, 
+    width: 50, 
+    height: 50, 
     color: "#fff2f2ff", 
     image: "dbastos.jpg", 
     link: "https://www.instagram.com/dbastostransporte_/" 
