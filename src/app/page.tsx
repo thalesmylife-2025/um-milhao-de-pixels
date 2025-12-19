@@ -31,16 +31,8 @@ const pixelsVendidos = [
 // --- LISTA 2: APOIADORES (EMBAIXO DO QUADRO) ---
 // Quem paga valores menores (só nome)
 const apoiadores = [
-  { id: 1, nome: "Carlos Silva" },
-  { id: 2, nome: "Ana Paula" },
-  { id: 3, nome: "Lucas G." },
-  { id: 4, nome: "Dani & Rafa" },
-  { id: 5, nome: "M. Oliveira" },
-  { id: 6, nome: "Tiago M." },
-  { id: 7, nome: "123 Fit" },
-  { id: 8, nome: "Santos & Cia" },
-  { id: 9, nome: "JCarla" },
-  { id: 10, nome: "thales" },
+  
+  { id: 1, nome: "Thales Bastos" },
   // É só adicionar mais nomes aqui...
 ];
 
