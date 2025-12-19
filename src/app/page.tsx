@@ -14,6 +14,17 @@ const pixelsVendidos = [
     image: "foto-thales.jpeg", 
     link: "https://www.instagram.com/thalesmylife/" 
   },
+  {
+    id: 2,
+    nome: "D Bastos",
+    x: 100,      
+    y: 0,      
+    width: 30, 
+    height: 30, 
+    color: "#fff2f2ff", 
+    image: "dbastos.jpg", 
+    link: "https://www.instagram.com/dbastostransporte_/" 
+  },
   
   // Adicione novas empresas aqui...
 ];
